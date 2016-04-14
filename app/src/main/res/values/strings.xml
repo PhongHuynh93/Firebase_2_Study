@@ -2,4 +2,6 @@
     <string name="app_name">Firebase_2_Study</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="login_progress_dialog">Login....!!</string>
+    <string name="register_progress_dialog">Register....!!!</string>
 </resources>
